@@ -1,0 +1,15 @@
+# Игнорировать папку с зависимостями
+/node_modules
+
+# Лог-файлы, создаваемые npm или yarn.
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Конфигурационные файлы IDE (например, для IntelliJ или VS Code).
+.idea/
+.vscode/
+
+# Системные файлы macOS и Windows, которые могут случайно попасть в репозиторий.
+.DS_Store
+Thumbs.db

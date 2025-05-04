@@ -1,0 +1,13 @@
+{
+  "name": "homework_243",
+  "version": "1.0.0",
+  "description": "This is a project for the homework 2.4.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "N Zher",
+  "license": "ISC",
+  "repository": "https://github.com/Natalia-Zher/JS_2.4.3",
+  "devDependencies": {"jest": "^29.7.0"}
+}
